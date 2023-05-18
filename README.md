@@ -9,4 +9,4 @@ Private Nuclei Templates
  
  save the templates to a folder : for eg folder names: private-templates
  
- nuclei -l listfdomains.txt --nuclei-templates ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
+ nuclei -l listfdomains.txt -t ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
