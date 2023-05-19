@@ -1,6 +1,9 @@
 # private_templates
-Private Nuclei Templates
- All templates are edited from the original . These templates include various bypasses I encountered during my bb hunting. 
+
+ All templates are edited from the original . 
+ These templates include various bypasses I encountered during my bb hunting. 
+ 
+ 
  Respect to the original authors ! 
  I only edited them to include forbidden bypasses and other few tweaks !!
  
