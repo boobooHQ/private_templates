@@ -1,10 +1,12 @@
 # private_templates
 
- All templates are edited from the original . 
+ All templates are edited from the original and some are 90% original
+ 
  These templates include various bypasses I encountered during my bb hunting. 
  
  
- Respect to the original authors ! 
+ Give Respect to the original authors !! 
+ 
  I only edited them to include forbidden bypasses and other few tweaks !!
  
  
