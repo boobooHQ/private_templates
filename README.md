@@ -5,7 +5,7 @@
  These templates include various bypasses I encountered during my bb hunting. 
  
  
- Give Respect to the original authors !! 
+**Respect to the original authors !! 
  
  I only edited them to include forbidden bypasses and other few tweaks !!
  
