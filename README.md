@@ -3,7 +3,7 @@
  All templates are edited from the original and some are fully edited with newly found paths and bypasses. 
  
  
-# Respect to the original authors !
+**Respect to the original authors !**
  
  I only edited their templates  as a base  to include forbidden bypasses and other few tweaks !!
  
