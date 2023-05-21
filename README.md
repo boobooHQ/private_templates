@@ -5,7 +5,7 @@
  
 # Respect to the original authors !
  
- I only edited them as a base  to include forbidden bypasses and other few tweaks !!
+ I only edited their templates  as a base  to include forbidden bypasses and other few tweaks !!
  
  
  # How to use :
