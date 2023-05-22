@@ -1,11 +1,8 @@
 # private_templates
 
- All templates are edited from the original and some are fully edited with newly found paths and bypasses. 
- 
- 
+Some templates are edited from the original and some are fully edited with newly found paths and bypasses. 
 **Respect to the original authors !**
- 
- I only edited their templates  as a base  to include forbidden bypasses and other few tweaks !!
+
  
  
  # How to use :
@@ -15,4 +12,4 @@
  nuclei -l listfdomains.txt -t ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
  
  
- **These are private templates for my own personal use**
+ **These are private templates for my own personal use** ~ **Not seeking any credit or mentions anywhere** 
