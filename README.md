@@ -13,3 +13,6 @@
  save the templates to a folder : for eg --> folder name: private-templates
  
  nuclei -l listfdomains.txt -t ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
+ 
+ 
+ **These are private templates for my own personal use**
