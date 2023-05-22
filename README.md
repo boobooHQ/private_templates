@@ -12,4 +12,4 @@ Some templates are edited from the original and some are fully edited with newly
  nuclei -l listfdomains.txt -t ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
  
  
- **These are private templates for my own personal use** ~ **Not seeking any credit or mentions anywhere** 
+ **These are private templates for my own personal use** ~ **i am Not seeking any credit or mentions anywhere** 
