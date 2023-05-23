@@ -1,15 +1,17 @@
-# private_templates
+**This collection includes templates that have been modified from their original versions, some of which have undergone extensive editing with newly discovered paths and bypasses.** 
+*Please note that the original authors deserve our utmost respect for their contributions.
 
-Some templates are edited from the original and some are fully edited with newly found paths and bypasses. 
-**Respect to the original authors !**
+**How to Use**:
+Save the templates to a designated folder (e.g., "private-templates").
 
- 
- 
- # How to use :
- 
- save the templates to a folder : for eg --> folder name: private-templates
- 
- nuclei -l listfdomains.txt -t ~/path/to/private-templates | tee -a  nucleid_with_private_templates.txt
- 
- 
- **These are private templates for my own personal use** ~ **i am Not seeking any credit or mentions anywhere** 
+Execute the following command in your terminal:
+```
+nuclei -l listofdomains.txt -t ~/path/to/private-templates | tee -a nucleid_with_private_templates.txt
+```
+
+**Please remember that these templates are intended for my personal use. 
+However, I have decided to share them for your benefit as well. I do not expect any credit or mentions in return**
+
+
+
+
