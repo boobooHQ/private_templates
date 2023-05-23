@@ -12,6 +12,7 @@ nuclei -l listofdomains.txt -t ~/path/to/private-templates | tee -a nucleid_with
 **Please remember that these templates are intended for my personal use. 
 However, I have decided to share them for your benefit as well. I do not expect any credit or mentions in return**
 
-
+**Act Responsibly.Avoid using these templates
+on unauthorized targets**
 
 
