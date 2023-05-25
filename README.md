@@ -1,5 +1,5 @@
 **This collection includes templates that have been modified from their original versions, some of which have undergone extensive editing with newly discovered paths and bypasses.** 
-*Please note that the original authors deserve our utmost respect for their contributions.
+*original authors deserve respect for their contributions.
 
 **How to Use**:
 Save the templates to a designated folder (e.g., "private-templates").
