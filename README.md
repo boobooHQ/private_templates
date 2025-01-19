@@ -1,4 +1,4 @@
-**This collection includes templates that have been modified from their original versions, some of which have undergone extensive editing with newly discovered paths and bypasses.** 
+**This collection includes templates that have been modified from their original versions & some are newly contributed to nuclei templates by me, some of which have undergone extensive editing with newly discovered paths and bypasses.** 
 *original authors deserve respect for their contributions.
 
 **How to Use**:
